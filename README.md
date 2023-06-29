@@ -30,7 +30,7 @@
 
 ## Screenshots
 
-![Example screenshot]()
+<!-- ![Example screenshot]() -->
 
 ## Setup
 
