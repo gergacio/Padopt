@@ -15,7 +15,7 @@
 
 ## General Information
 
-- Padopt is pet adoption app.
+- Padopt is a pet adoption app.
 
 ## Technologies Used
 
